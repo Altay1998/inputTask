@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("/img/radialGradient.png");
+    background-size: 200%;
+    background-position: 50% ,0%;
+    background-repeat: no-repeat;
+}
+header{
+    text-align: center;
+}
+header h2{
+    margin: 5px;
+    color: #43a047;
+    font-size: 2.5em;
+    height: 20%;;
+}
+header .buy-now-but{
+    margin: auto;
+    background-color: #43a047;
+    padding: 15px 10px 20px;
+    width: 200px;
+    height: 10px;
+}
+header .buy-now-but a{
+    text-decoration: none;
+    color: white;
+}
+
+.form-part{
+    margin: auto;
+    width: 60%;
+    background-color: beige;
+}
+.same-styles-form{
+    display: inline-block;
+    width: 48%;
+}
+.same-styles-form .register{
+    height: 100%;
+    border: none;
+}
+.same-styles-form .register legend,.same-styles-form .login legend{
+    font-size: 30px;
+    color: #43a047;
+
+}
+.same-styles-form {
+    vertical-align: top;
+    margin: 6px;
+}
+.inputs-style input{
+    display: inline-block;
+    width: 90%;
+    height: 30px;
+    margin-bottom: 10px;
+}
+.inputs-style label{
+    display: inline-block;
+    width: 3%;
+    margin-right: 10px;
+    height: 30px;
+    font-size: 150%;
+    border: 1px solid;
+    
+}
+.inputs-style label i{
+    margin:30px;
+}
+.form-footer

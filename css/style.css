@@ -67,12 +67,12 @@ header .buy-now-but a{
     padding: 4px 5px 2px 10px;
     height: 38px;
     font-size: 150%;
-}
-.inputs-style label{
+    
     border: 1px solid #A9A9A9;
     vertical-align: middle;
     color: #A9A9A9;
 }
+
 .login  .inputs-style input {
     width: 193px;
     height: 37px;
